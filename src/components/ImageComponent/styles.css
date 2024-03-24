@@ -1,0 +1,6 @@
+.ImageComponent {
+  border: 2px solid #a8a9ab;
+  border-radius: 20px;
+  background-color: rgb(88, 112, 249);
+  object-fit: contain;
+}
